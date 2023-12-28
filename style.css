@@ -1,0 +1,47 @@
+.main{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 200px;
+   
+}
+.form
+{
+
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+    width: 350px;
+    border-radius: 6px;
+    text-align: center ;
+    overflow: hidden; 
+    margin-left: 25px;
+
+}
+.log{
+    background-color: blue;
+    color: white;
+    width: 310px;
+    
+    
+}
+.newa{
+    background-color: green;
+    color: white;
+    width: 150px;
+}
+h1{
+    color: blue;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input {
+    width: 300px;
+    padding: 5px;
+
+}
+p{
+    font-size: 20px;
+    font-family: serif;
+}
+
+  
